@@ -1,0 +1,2 @@
+# PinktradeBot
+PinktradeBot App AutoClicker
